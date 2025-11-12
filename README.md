@@ -11,7 +11,7 @@ matlabのコマンドウィンドウにて、pyenvと入力する。
 
 参考の写真
 
-![matlab-python接続_step1](picture\matlab-python接続_step1.png)
+![matlab-python接続_step1](picture\matlab-pythonstep1.png)
 
 もし、pythonのversionが出力されない場合は参照を確認して実行する
 参照(https://jp.mathworks.com/help/matlab/matlab_external/install-supported-python-implementation.html)
@@ -25,7 +25,7 @@ Windows powershellを開き、C:\Users\()※アカウント名\AppData\Local\Pro
 
 参考の写真
 
-![matlab-python接続_step2](picture\matlab-python接続_step2.png)
+![matlab-python接続_step2](picture\matlab-pythonstep2.png)
 
 と同じ結果になれば終了です
 
